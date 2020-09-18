@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PicoTask</string>
+    <string name="enter_title_here">Enter Title Here</string>
+    <string name="enter_description_here">Enter Description Here</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="missing">There is missing data</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="delete_successful">Delete Successful</string>
+    <string name="choose">please Choose future time</string>
+    <string name="remind">i will remind you at selected time</string>
+</resources>
